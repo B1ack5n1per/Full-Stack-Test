@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "username": "B1ack5niper",
+    "name": {
+      "first": "Taylor",
+      "last": "Wong"
+    },
+    "age": 15,
+    "profession": "Frontend Developer",
+    "bio": "",
+  },
+  {
+    "id": 1,
+    "username": "Jimmy",
+    "name": {
+      "first": "James",
+      "last": "Holman"
+    },
+    "age": 67,
+    "profession": "Senior's Home Manager",
+    "bio": "",
+  }
+]
